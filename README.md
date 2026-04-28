@@ -58,8 +58,4 @@ Para agregar una nueva figura geométrica:
 
 No es necesario modificar la lógica existente.
 
-Esto cumple con el principio:
-
-**Open/Closed Principle (OCP)**
-
 ---
