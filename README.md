@@ -63,21 +63,3 @@ Esto cumple con el principio:
 **Open/Closed Principle (OCP)**
 
 ---
-
-## Autores
-
-**Alfredo Chiguano**
-**Valeria Molina**
-
-Universidad de las Américas — UDLA
-
-Facultad de Ingeniería y Ciencias Aplicadas
-Ingeniería de Software
-
-Asignatura: Diseño y Arquitectura de Software
-
-Docente: Antonio Cañaveral
-
-Abril 2026
-
----
